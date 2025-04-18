@@ -1,21 +1,21 @@
 const rooms = [
   {
-      image: "../assets/products/5.png",
+      image: "assets/products/5.png",
       title: "Inner Peace",
       label: "01 — Bed Room"
   },
   {
-      image: "../assets/products/2.png",
+      image: "assets/products/2.png",
       title: "Serene White",
       label: "02 — Dining Room"
   },
   {
-      image: "../assets/products/1.png",
+      image: "assets/products/1.png",
       title: "Modern Vibes",
       label: "03 — Living Room"
   },
   {
-      image: "../assets/products/5.png",
+      image: "assets/products/5.png",
       title: "Modern Vibes",
       label: "04 — Living Room"
   }
